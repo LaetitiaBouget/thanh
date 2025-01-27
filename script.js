@@ -40,10 +40,10 @@
             },
             vertical: {
                 2: "Plaisir du soir",
-                3: "Aliment délicieux mais mortel pour ton conjoint",
+                3: "Aliment délicieux mais mortel selon ton conjoint",
                 6: "Notre premier point commun du quotidien, synonyme de stress",
                 7: "Arme mortelle qui peut ouvrir les fronts",
-                8: "Ton pire ennemi",
+                8: "Celui que tu évites à tout prix",
                 10: "Machine de sport à la campagne",
                 11: "Il parait que tu sais en jouer",
                 15: "Ta passion inavouée sous toutes les formes: solaire, hydratante et bien d'autres encore",
@@ -78,6 +78,11 @@
             { row: 0, col: 10, value: 'O' },
             { row: 3, col: 13, value: 'N' },
             { row: 17, col: 11, value: 'D' },
+            { row: 5, col: 5, value: 'O' },
+            { row: 5, col: 7, value: 'D' },
+            { row: 11, col: 3, value: 'M' },
+            { row: 11, col: 4, value: 'P' },
+
 
         ];
 
